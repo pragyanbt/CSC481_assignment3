@@ -1,0 +1,13 @@
+TicketSale
+    ✔ deploys a contract
+    ✔ checks the owner
+    ✔ buys a ticket
+    ✔ offers a swap (46ms)
+Account 2 ticket after accepting swap: 1
+Account 1 ticket after accepting swap: 2
+    ✔ accepts a swap (98ms)
+    ✔ resells a ticket (43ms)
+    ✔ accepts resale (66ms)
+
+
+  7 passing (550ms)
